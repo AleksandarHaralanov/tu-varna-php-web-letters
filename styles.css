@@ -1,0 +1,46 @@
+body {
+    font-family: Tahoma;
+}
+
+table, td {
+    margin: auto;
+    padding: 7px;
+    width: 33%;
+    border: 2px solid black;
+    border-collapse: collapse;
+    background: #f0faff;
+}
+
+th {
+    font-size: 40px;
+    margin: auto;
+    padding: 10px;
+}
+
+h1 {
+    margin: auto;
+    padding: 30px;
+    background: #bfeaff;
+}
+
+input {
+    margin: 10px;
+}
+
+p {
+    font-size: 20px;
+    margin: auto;
+    padding: auto;
+}
+
+hr {
+    margin: 15px;
+    padding: auto;
+}
+
+input[type=submit], input[type=reset] {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
